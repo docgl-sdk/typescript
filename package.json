@@ -31,6 +31,18 @@
     "generation"
   ],
   "license": "MIT",
+  "author": "Docgl",
+  "repository": {
+    "type": "git",
+    "url": "https://https://github.com/docgl-sdk/typescript.git"
+  },
+  "bugs": {
+    "url": "https://https://github.com/docgl-sdk/typescript/issues"
+  },
+  "homepage": "https://https://github.com/docgl-sdk/typescript#readme",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "typescript": "^5.4.0"
   }
