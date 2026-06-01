@@ -34,12 +34,12 @@
   "author": "Docgl",
   "repository": {
     "type": "git",
-    "url": "https://https://github.com/docgl-sdk/typescript.git"
+    "url": "https://github.com/docgl-sdk/typescript.git"
   },
   "bugs": {
-    "url": "https://https://github.com/docgl-sdk/typescript/issues"
+    "url": "https://github.com/docgl-sdk/typescript/issues"
   },
-  "homepage": "https://https://github.com/docgl-sdk/typescript#readme",
+  "homepage": "https://github.com/docgl-sdk/typescript#readme",
   "publishConfig": {
     "access": "public"
   },
